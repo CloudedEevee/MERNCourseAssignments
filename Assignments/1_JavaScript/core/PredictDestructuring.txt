@@ -1,0 +1,45 @@
+Problem 1 -----------------------------------------------------
+   >>>console.log(randomCar);
+   Tesla
+
+   >>>console.log(otherRandomCar);
+   Mercedes
+
+Problem 2 -----------------------------------------------------
+   >>>console.log(name);
+   Error, variable not found
+
+   >>>console.log(otherName);
+   Elon
+
+
+Problem 3 -----------------------------------------------------
+   >>>console.log(password);
+   12345
+
+   >>>console.log(hashedPassword);
+   Error, variable doesn't have a value (no password attached to person)
+
+
+Problem 4 -----------------------------------------------------
+   >>>console.log(first == second);
+   false
+
+   >>>console.log(first == third);
+   true
+
+
+Problem 5 -----------------------------------------------------
+   >>>console.log(key);
+   value
+
+   >>>console.log(secondKey);
+   [1, 5, 1, 8, 3, 3]
+
+   >>>console.log(secondKey[0]);
+   1
+
+   >>>console.log(willThisWork);
+   Error, variable doesn't have a value (no 'willThisWork' attached to lastTest)
+
+   
