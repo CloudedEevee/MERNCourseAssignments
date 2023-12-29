@@ -1,0 +1,6 @@
+--Default
+npm install @mui/material @emotion/react @emotion/styled
+
+
+--With Styled Components
+npm install @mui/material @mui/styled-engine-sc styled-components
